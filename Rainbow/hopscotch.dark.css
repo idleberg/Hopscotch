@@ -1,0 +1,49 @@
+/**
+ * Hopscotch
+ *
+ * @author Jan T. Sott
+ *
+ * Rainbow template by Jan T. Sott (https://github.com/idleberg/)
+ * Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+ */
+pre {
+    background-color: #322931;
+    word-wrap: break-word;
+    margin: 0px;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+pre, code {
+    font-family: 'Monaco', courier, monospace;
+}
+
+pre .comment {
+    color: #797379;
+}
+
+pre .variable.global, pre .variable.class, pre .variable.instance {
+    color: #dd464c; /* red */
+}
+
+pre .constant.numeric, pre .constant.language, pre .constant.hex-color, pre .keyword.unit {
+    color: #fd8b19; /* orange */
+}
+
+pre .constant, pre .entity, pre .entity.class, pre .support {
+    color: #fdcc59; /* yellow */
+}
+
+pre .constant.symbol, pre .string {
+    color: #8fc13e; /* green */
+}
+
+pre .entity.function, pre .support.css-property, pre .selector {
+    color: #1290bf; /* blue */
+}
+
+pre .keyword, pre .storage {
+    color: #c85e7c; /* purple */
+}

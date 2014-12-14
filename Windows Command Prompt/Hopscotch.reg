@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Hopscotch (https://github.com/idleberg/Hopscotch)
+; Scheme: Jan T. Sott
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00312932
+"ColorTable01"=dword:00bf9012
+"ColorTable02"=dword:003ec18f
+"ColorTable03"=dword:00939b14
+"ColorTable04"=dword:00198bfd
+"ColorTable05"=dword:007c5ec8
+"ColorTable06"=dword:0059ccfd
+"ColorTable07"=dword:00989498
+"ColorTable08"=dword:00797379
+"ColorTable09"=dword:00bf9012
+"ColorTable10"=dword:003ec18f
+"ColorTable11"=dword:00939b14
+"ColorTable12"=dword:004c46dd
+"ColorTable13"=dword:000835b3
+"ColorTable14"=dword:0059ccfd
+"ColorTable15"=dword:00ffffff
