@@ -22,9 +22,9 @@ Supported apps:
 * Pygments
 * Rainbow
 * Shell
-* Sublime Text
+* Sublime Text (see [Package Control](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme))
 * Terminal
-* TextMate/Sublime Text
+* TextMate
 * Vim
 * Visual Studio
 * Windows Command Prompt
