@@ -6,7 +6,7 @@ Color schemes inspired by the [Hopscotch](http://www.gethopscotch.com/) learning
 
 Supported apps:
 
-* Atom ([APM](https://atom.io/themes/hopscotch))
+* [Atom](https://atom.io/themes/hopscotch)
 * BBEdit
 * CodeMirror
 * Emacs
@@ -22,7 +22,7 @@ Supported apps:
 * Pygments
 * Rainbow
 * Shell
-* Sublime Text ([Package Control](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme))
+* [Sublime Text](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme)
 * Terminal
 * TextMate
 * ~~Vim~~
