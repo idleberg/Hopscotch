@@ -5,7 +5,7 @@
 
 ;;; Code:
 
-(deftheme base16-hopscotch-dark)
+(deftheme hopscotch)
 
 (let ((base00 "#322931")
       (base01 "#433b42")
@@ -25,7 +25,7 @@
       (base0F "#b33508"))
 
   (custom-theme-set-faces 
-   'base16-hopscotch-dark
+   'hopscotch
 
    ;; Built-in stuff (Emacs 23)
    `(border ((t (:background ,base03))))
@@ -455,7 +455,7 @@
    
 
   (custom-theme-set-variables
-   'base16-hopscotch-dark
+   'hopscotch
 
    `(ansi-color-names-vector
      ;; black, base08, base0B, base0A, base0D, magenta, cyan, white
@@ -464,6 +464,6 @@
      ;; black, base08, base0B, base0A, base0D, magenta, cyan, white
      [unspecified ,base00 ,base08 ,base0B ,base0A ,base0D ,base0E ,base0D ,base05])))
 
-(provide-theme 'base16-hopscotch-dark)
+(provide-theme 'hopscotch)
 
-;;; base16-hopscotch-dark-theme.el ends here
+;;; hopscotch-theme.el ends here

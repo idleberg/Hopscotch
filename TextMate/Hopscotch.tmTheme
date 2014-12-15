@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Hopscotch by Jan T. Sott | https://github.com/idleberg/Hopscotch -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -544,6 +545,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>987f9986-0778-4fb6-b8fe-82008d1213b0</string>
+	<string>3fa3cc57-1f5b-44bf-aab2-32e30c46aa72</string>
 </dict>
 </plist>

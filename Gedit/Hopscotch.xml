@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  Name:
-    Hopscotch
-
-  Credits:
-    Original Base16 color schemes by Chris Kempson
-    gedit template by Jan T. Sott
-
-  Installation:
-    Copy style to the respective directories, replace GTK version if necessary!
-
-    Linux:
-      /usr/share/gtksourceview-2.0/language-specs
-    Mac OS X (MacPorts):
-      /opt/local/share/gtksourceview-2.0/language-specs
-    Windows:
-      %PROGRAMFILES%\gedit\share\gtksourceview-2.0\styles
-
-  Base16 Project:
-    https://github.com/chriskempson/base16
--->
-
-<style-scheme id="base16-hopscotch-dark" _name="Base16 Hopscotch Dark" version="1.0">
+<!-- Hopscotch by Jan T. Sott | https://github.com/idleberg/Hopscotch -->
+<style-scheme id="base16-hopscotch" _name="Hopscotch" version="1.0">
   
   <!-- Meta -->
   <author>Jan T. Sott</author>
-  <_description>Base16 Hopscotch Dark</_description>
+  <_description>Hopscotch</_description>
 
   <!-- Palette -->
   <color name="base00" value="#322931"/>

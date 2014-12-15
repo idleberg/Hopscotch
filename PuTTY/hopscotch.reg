@@ -1,5 +1,9 @@
 Windows Registry Editor Version 5.00
 
+; Hopscotch
+; by Jan T. Sott
+; https://github.com/idleberg/Hopscotch
+
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Hopscotch]
 "Colour0"="152,148,152"
 "Colour1"="185,181,184"

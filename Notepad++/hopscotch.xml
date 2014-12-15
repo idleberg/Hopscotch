@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<!--//
-
-Name:       Hopscotch
-
-Authors:    Jan T. Sott
-
-Website:    https://github.com/idleberg/Hopscotch
-
-Comment:    Copy this style to %APPDATA%\Notepad++\themes
-
-//-->
+<!-- Hopscotch by Jan T. Sott | https://github.com/idleberg/Hopscotch -->
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="">
