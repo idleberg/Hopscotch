@@ -22,6 +22,7 @@ Supported apps:
 * Pygments
 * Rainbow
 * Shell
+* Sublime Text
 * Terminal
 * TextMate
 * Vim
