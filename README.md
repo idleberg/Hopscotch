@@ -23,7 +23,7 @@ Supported apps:
 * Rainbow
 * Shell
 * Terminal
-* TextMate
+* TextMate/Sublime Text
 * Vim
 * Visual Studio
 * Windows Command Prompt
