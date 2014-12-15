@@ -1,7 +1,8 @@
 Windows Registry Editor Version 5.00
 
-; Hopscotch (https://github.com/idleberg/Hopscotch)
-; Scheme: Jan T. Sott
+; Hopscotch
+; by Jan T. Sott
+; https://github.com/idleberg/Hopscotch
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:00312932
