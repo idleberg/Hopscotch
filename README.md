@@ -25,7 +25,7 @@ Supported apps:
 * [Sublime Text](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme)
 * Terminal
 * TextMate
-* ~~Vim~~
+* Vim
 * Visual Studio
 * Windows Command Prompt
 * XCode
