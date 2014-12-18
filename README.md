@@ -8,7 +8,7 @@ Supported apps:
 
 * [Atom](https://atom.io/themes/hopscotch)
 * BBEdit
-* CodeMirror
+* CodeMirror / Brackets
 * Emacs
 * Gedit
 * highlight.js
@@ -22,9 +22,8 @@ Supported apps:
 * Pygments
 * Rainbow
 * Shell
-* [Sublime Text](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme)
+* [Sublime Text](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme) / TextMate
 * Terminal
-* TextMate
 * Vim
 * Visual Studio
 * Windows Command Prompt
