@@ -2,57 +2,57 @@
 // Base16 scheme and Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
 @import "syntax-variables.less";
-
-.editor-colors {
-  background-color: @syntax-background-color;
+atom-text-editor,
+:host {
   color: @syntax-text-color;
-}
+  background-color: @syntax-background-color;
+  .gutter {
+    color: @syntax-gutter-text-color;
+    background-color: @syntax-gutter-background-color;
+  }
 
-.editor .gutter {
-  background-color: @syntax-gutter-background-color;
-  color: @syntax-gutter-text-color;
-}
+  .gutter .line-number.cursor-line {
+    color: @syntax-gutter-text-color-selected;
+    background-color: @syntax-gutter-background-color-selected;
+  }
 
-.editor .gutter .line-number.cursor-line {
-  background-color: @syntax-gutter-background-color-selected;
-  color: @syntax-gutter-text-color-selected;
-}
+  .gutter .line-number.cursor-line-no-selection {
+    color: @syntax-gutter-text-color-selected;
+  }
 
-.editor .gutter .line-number.cursor-line-no-selection {
-  color: @syntax-gutter-text-color-selected;
-}
+  .wrap-guide {
+    color: @syntax-wrap-guide-color;
+  }
 
-.editor .wrap-guide {
-  color: @syntax-wrap-guide-color;
-}
+  .indent-guide {
+    color: @syntax-indent-guide-color;
+  }
 
-.editor .indent-guide {
-  color: @syntax-indent-guide-color;
-}
+  .invisible-character {
+    color: @syntax-invisible-character-color;
+  }
 
-.editor .invisible-character {
-  color: @syntax-invisible-character-color;
-}
+  .search-results .marker .region {
+    background-color: transparent;
+    border: @syntax-result-marker-color;
+  }
 
-.editor .search-results .marker .region {
-  background-color: transparent;
-  border: @syntax-result-marker-color;
-}
+  .search-results .marker.current-result .region {
+    border: @syntax-result-marker-color-selected;
+  }
 
-.editor .search-results .marker.current-result .region {
-  border: @syntax-result-marker-color-selected;
-}
+  .cursor {
+    border-color: @syntax-cursor-color;
+  }
 
-.editor.is-focused .cursor {
-  border-color: @syntax-cursor-color;
-}
+  .selection .region {
+    background-color: @syntax-selection-color;
+  }
 
-.editor.is-focused .selection .region {
-  background-color: @syntax-selection-color;
-}
+  .line-number.cursor-line-no-selection, .line.cursor-line {
+    background-color: rgba(80, 80, 80, 0.33);
+  }
 
-.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
-  background-color: rgba(80, 80, 80, 0.33);
 }
 
 .variable.parameter.function {
