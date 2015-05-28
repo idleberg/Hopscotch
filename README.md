@@ -1,5 +1,9 @@
 # Hopscotch Theme
 
+[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Travis](https://img.shields.io/travis/idleberg/Hopscotch.svg?style=flat-square)](https://travis-ci.org/idleberg/Hopscotch)
+[![David](https://img.shields.io/david/dev/idleberg/Hopscotch.svg?style=flat-square)](https://david-dm.org/idleberg/Hopscotch#info=devDependencies)
+
 Color schemes inspired by the [Hopscotch](http://www.gethopscotch.com/) learning platform for kids
 
 ![Screenshot](https://raw.github.com/idleberg/Hopscotch/master/preview.png)
