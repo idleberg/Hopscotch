@@ -1,20 +1,18 @@
 /*
+ * Hopscotch
+ * by Jan T. Sott
+ * https://github.com/idleberg/Hopscotch
+ *
+ * This work is licensed under the Creative Commons CC0 1.0 Universal License
+ */ 
 
-    Name:       Hopscotch
-    Author:     Jan T. Sott
-
-    highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
-    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
-
-*/
-
-/* Hopscotch Comment */
+/* Comment */
 .hljs-comment,
 .hljs-title {
   color: #989498;
 }
 
-/* Hopscotch Red */
+/* Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -30,7 +28,7 @@
   color: #dd464c;
 }
 
-/* Hopscotch Orange */
+/* Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
@@ -40,13 +38,13 @@
   color: #fd8b19;
 }
 
-/* Hopscotch Yellow */
+/* Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
   color: #fdcc59;
 }
 
-/* Hopscotch Green */
+/* Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
@@ -56,12 +54,12 @@
   color: #8fc13e;
 }
 
-/* Hopscotch Aqua */
+/* Aqua */
 .css .hljs-hexcolor {
   color: #149b93;
 }
 
-/* Hopscotch Blue */
+/* Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -73,7 +71,7 @@
   color: #1290bf;
 }
 
-/* Hopscotch Purple */
+/* Purple */
 .hljs-keyword,
 .javascript .hljs-function {
   color: #c85e7c;
