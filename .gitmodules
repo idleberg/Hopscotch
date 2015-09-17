@@ -1,6 +1,6 @@
 [submodule "Atom"]
-    path = Atom
-    url = https://github.com/idleberg/atom-hopscotch.git
-[submodule "TextMate"]
-    path = TextMate
-    url = https://github.com/idleberg/Hopscotch.tmTheme.git
+	path = Atom
+	url = https://github.com/idleberg/atom-hopscotch
+[submodule "Sublime Text"]
+	path = Sublime Text
+	url = https://github.com/idleberg/Hopscotch.tmTheme
