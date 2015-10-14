@@ -18,6 +18,7 @@ Supported apps:
 * highlight.js
 * IDEA
 * iTerm2
+* MacDown
 * Mou
 * Notepad++
 * Prettify.js
