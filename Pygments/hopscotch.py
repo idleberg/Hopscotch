@@ -26,7 +26,7 @@ BLUE = "#1290bf"
 PURPLE = "#c85e7c"
 
 
-class base16_hopscotch_dark(Style):
+class base16_hopscotch(Style):
 
     default_style = ''
 
