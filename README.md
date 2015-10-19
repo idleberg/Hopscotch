@@ -12,9 +12,7 @@ Supported apps:
 
 * [Atom](https://atom.io/themes/hopscotch)
 * BBEdit
-* [Brackets](https://github.com/idleberg/brackets-hopscotch)
-* CodeMirror / Brackets
-* Emacs
+* CodeMirror / [Brackets](https://github.com/idleberg/brackets-hopscotch)
 * Gedit
 * highlight.js
 * IDEA
