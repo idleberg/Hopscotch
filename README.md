@@ -33,7 +33,9 @@ Supported apps:
 * Windows Command Prompt
 * XCode
 
-Please refer to the individual apps for installation instructions
+## Download & Installation
+
+Use git to download `it clone --recursive https://github.com/idleberg/Hopscotch`. Refer to the individual apps for installation details.
 
 ## Contributions
 
