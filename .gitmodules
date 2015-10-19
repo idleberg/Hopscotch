@@ -4,3 +4,6 @@
 [submodule "Sublime Text"]
 	path = Sublime Text
 	url = https://github.com/idleberg/Hopscotch.tmTheme
+[submodule "Brackets"]
+	path = Brackets
+	url = https://github.com/idleberg/brackets-hopscotch
