@@ -35,7 +35,7 @@ Supported apps:
 
 ## Download & Installation
 
-Use git to download `it clone --recursive https://github.com/idleberg/Hopscotch`. Refer to the individual apps for installation details.
+Use git to download `git clone --recursive https://github.com/idleberg/Hopscotch`. Refer to the individual apps for installation details.
 
 ## Contributions
 
