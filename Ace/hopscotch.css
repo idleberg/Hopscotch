@@ -1,0 +1,141 @@
+/*
+ *  Hopscotch
+ *  by Jan T. Sott
+ *  https://github.com/idleberg/Hopscotch
+ */
+
+ .ace-hopscotch .ace_gutter {
+  background: #322931;
+  color: rgb(118,111,117)
+}
+
+.ace-hopscotch .ace_print-margin {
+  width: 1px;
+  background: #e8e8e8
+}
+
+.ace-hopscotch {
+  background-color: #322931;
+  color: #b9b5b8
+}
+
+.ace-hopscotch .ace_cursor {
+  color: #b9b5b8
+}
+
+.ace-hopscotch .ace_marker-layer .ace_selection {
+  background: #5c545b
+}
+
+.ace-hopscotch.ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px 0px #322931;
+  border-radius: 2px
+}
+
+.ace-hopscotch .ace_marker-layer .ace_step {
+  background: rgb(198, 219, 174)
+}
+
+.ace-hopscotch .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #797379
+}
+
+.ace-hopscotch .ace_marker-layer .ace_active-line {
+  background: rgba(121, 115, 121, 0.33)
+}
+
+.ace-hopscotch .ace_gutter-active-line {
+  background-color: rgba(121, 115, 121, 0.33)
+}
+
+.ace-hopscotch .ace_marker-layer .ace_selected-word {
+  border: 1px solid #5c545b
+}
+
+.ace-hopscotch .ace_fold {
+  background-color: #1290bf;
+  border-color: #b9b5b8
+}
+
+.ace-hopscotch .ace_keyword {
+  color: #c85e7c
+}
+
+.ace-hopscotch .ace_keyword.ace_operator {
+  color: #b9b5b8
+}
+
+.ace-hopscotch .ace_keyword.ace_other.ace_unit {
+  color: #fd8b19
+}
+
+.ace-hopscotch .ace_constant {
+  color: #fd8b19
+}
+
+.ace-hopscotch .ace_constant.ace_numeric {
+  color: #fd8b19
+}
+
+.ace-hopscotch .ace_constant.ace_character.ace_escape {
+  color: #149b93
+}
+
+.ace-hopscotch .ace_support.ace_function {
+  color: #149b93
+}
+
+.ace-hopscotch .ace_support.ace_class {
+  color: #fdcc59
+}
+
+.ace-hopscotch .ace_storage {
+  color: #c85e7c
+}
+
+.ace-hopscotch .ace_invalid.ace_illegal {
+  color: #ffffff;
+  background-color: #dd464c
+}
+
+.ace-hopscotch .ace_invalid.ace_deprecated {
+  color: #ffffff;
+  background-color: #b33508
+}
+
+.ace-hopscotch .ace_string {
+  color: #8fc13e
+}
+
+.ace-hopscotch .ace_string.ace_regexp {
+  color: #149b93
+}
+
+.ace-hopscotch .ace_comment {
+  color: #797379
+}
+
+.ace-hopscotch .ace_variable {
+  color: #dd464c
+}
+
+.ace-hopscotch .ace_meta.ace_selector {
+  color: #c85e7c
+}
+
+.ace-hopscotch .ace_entity.ace_other.ace_attribute-name {
+  color: #fd8b19
+}
+
+.ace-hopscotch .ace_entity.ace_name.ace_function {
+  color: #1290bf
+}
+
+.ace-hopscotch .ace_entity.ace_name.ace_tag {
+  color: #dd464c
+}
+
+.ace-hopscotch .ace_markup.ace_list {
+  color: #dd464c
+}

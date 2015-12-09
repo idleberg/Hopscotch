@@ -10,6 +10,7 @@ Color schemes inspired by the [Hopscotch](http://www.gethopscotch.com/) learning
 
 Supported apps:
 
+* Ace
 * [Atom](https://atom.io/themes/hopscotch)
 * BBEdit
 * CodeMirror / [Brackets](https://github.com/idleberg/brackets-hopscotch)
@@ -35,7 +36,7 @@ Supported apps:
 
 ## Download & Installation
 
-Use git to download `it clone --recursive https://github.com/idleberg/Hopscotch`. Refer to the individual apps for installation details.
+Use git to download `git clone --recursive https://github.com/idleberg/Hopscotch`. Refer to the individual apps for installation details.
 
 ## Contributions
 
