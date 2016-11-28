@@ -5,5 +5,8 @@
 	path = Sublime Text
 	url = https://github.com/idleberg/Hopscotch.tmTheme
 [submodule "Brackets"]
-	path = Brackets
-	url = https://github.com/idleberg/brackets-hopscotch
+    path = Brackets
+    url = https://github.com/idleberg/brackets-hopscotch
+[submodule "Visual Studio Code"]
+	path = Visual Studio Code
+	url = https://github.com/idleberg/vscode-hopscotch
