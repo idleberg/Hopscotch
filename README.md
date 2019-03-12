@@ -31,7 +31,7 @@ Supported apps:
 * Terminal
 * Vim
 * Visual Studio
-* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.nsis)
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
 * Windows Command Prompt
 * XCode
 
