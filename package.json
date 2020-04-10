@@ -38,6 +38,8 @@
     "travis"
   ],
   "scripts": {
-    "test": "grunt lint --verbose"
+    "init": "git submodule update --init --recursive",
+    "test": "grunt lint --verbose",
+    "update": "git submodule update --remote --merge"
   }
 }
